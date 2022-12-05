@@ -1,0 +1,4 @@
+- 👋 Hi, I’m arch. @Mikolaj-Rozek - I am architect, BIM manager, microcontroller programmer, webdeveloper, artist.
+- 👀 I’m interested in parametric modeling, coding, architecture, project managment
+- 🌱 I’m currently learning how to create Visuals for PowerBI and plugins for Autodesk Revit
+- 💞️ I’m looking to collaborate on project related to Visuals for PowerBI and plugins for Autodesk Revit
